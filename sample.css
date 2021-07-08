@@ -1,0 +1,34 @@
+body{
+    background-color: blue
+}
+
+h1{
+    color: rgb(43, 236, 220);
+}
+p:not(:first-child){
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(5, 219, 166);
+}
+.bigfoot{
+    font:  sans-serif;
+    font-size: x-large;
+    flex-wrap: wrap;
+    color: rgb(197, 51, 255);
+    background-color: black;
+}
+
+#big_pp{
+    font-size: 34px;
+    font-weight: bolder;
+    color:rgba(0, 0, 255,1)
+}
+
+#weed{
+    font: 1em sans-serif;
+    font-size: x-large;
+    flex-wrap: wrap;
+    color: rgb(197, 51, 255);
+    background-color: black;
+}
+
